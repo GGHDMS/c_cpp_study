@@ -1,0 +1,10 @@
+﻿  array_stack.cpp
+  stack_testMain.cpp
+c:\hdms c++언어\io_test\io test 4\io_test 4\io_test 4 stact\stack_testmain.cpp(54): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\hdms c++언어\io_test\io test 4\io_test 4\io_test 4 stact\stack_testmain.cpp(54): error C2429: 언어 기능 'if/switch의 init-statements'에 컴파일러 플래그 '/std:c++17'이(가) 필요합니다.
+c:\hdms c++언어\io_test\io test 4\io_test 4\io_test 4 stact\stack_testmain.cpp(54): error C2059: 구문 오류: ')'
+c:\hdms c++언어\io_test\io test 4\io_test 4\io_test 4 stact\stack_testmain.cpp(71): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\hdms c++언어\io_test\io test 4\io_test 4\io_test 4 stact\stack_testmain.cpp(110): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...

@@ -1,0 +1,5 @@
+hello
+world
+file open
+close
+exit

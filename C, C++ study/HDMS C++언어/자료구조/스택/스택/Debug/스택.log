@@ -1,0 +1,6 @@
+﻿  StudentStack.cpp
+c:\hdms c++언어\자료구조\스택\스택\student.h(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\hdms c++언어\자료구조\스택\스택\student.h(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+  스택.vcxproj -> C:\HDMS C++언어\자료구조\스택\Debug\스택.exe

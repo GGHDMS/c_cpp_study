@@ -1,0 +1,4 @@
+﻿  HW46.cpp
+c:\hdms  c언어\day15\day15\hw46.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  day15.vcxproj -> C:\HDMS  C언어\day15\Debug\day15.exe

@@ -1,0 +1,4 @@
+﻿  HW10.cpp
+c:\hdms c++언어\과제\day 9\day 9\hw10.cpp(46): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\hdms c++언어\과제\day 9\day 9\hw10.cpp(47): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  day 9.vcxproj -> C:\HDMS C++언어\과제\day 9\Debug\day 9.exe
